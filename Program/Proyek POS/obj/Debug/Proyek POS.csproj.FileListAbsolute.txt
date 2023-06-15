@@ -1,0 +1,26 @@
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe.config
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\bin\Debug\Proyek POS.pdb
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek POS.csprojAssemblyReference.cache
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Properties.Resources.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek POS.csproj.GenerateResource.cache
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek POS.csproj.CoreCompileInputs.cache
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek POS.exe
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek POS.pdb
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Splashscreen.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Login.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Login_Manager.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Register_Member.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Pembayaran.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Lihat_Edit_Stock.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Pindah_Stock.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Penjualan.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Stock.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Ubah_Harga.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Riwayat.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Browse.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Beli_Stock.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Browse.resources

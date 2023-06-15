@@ -1,0 +1,104 @@
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe.config
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\bin\Debug\Proyek POS.pdb
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csprojAssemblyReference.cache
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Browse.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Login_Manager.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Browse.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Login.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Register_Member.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Pembayaran.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Ubah_Harga.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Penjualan.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Stock.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Pindah_Stock.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Lihat_Edit_Stock.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Beli_Stock.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Riwayat.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Splashscreen.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Properties.Resources.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csproj.GenerateResource.cache
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csproj.CoreCompileInputs.cache
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek POS.exe
+D:\KULIAH STTS\SEMESTER 2\PV\PROYEK\POS (RESTAURANT)\Proyek POS\Proyek POS\obj\Debug\Proyek POS.pdb
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe.config
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\bin\Debug\Proyek POS.pdb
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csprojAssemblyReference.cache
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Browse.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Login_Manager.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Browse.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Login.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Register_Member.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Pembayaran.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Ubah_Harga.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Penjualan.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Stock.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Pindah_Stock.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Lihat_Edit_Stock.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Beli_Stock.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Riwayat.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Splashscreen.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Properties.Resources.resources
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csproj.GenerateResource.cache
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek POS.exe
+D:\DOCUMENTS\KULIAH\SEMESTER 2\PV\PROYEK POS\CODINGAN MODULE\REVISI\PROYEK POS 12 MEI 2019 V1\Proyek POS\Proyek POS\obj\Debug\Proyek POS.pdb
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe.config
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\bin\Debug\Proyek POS.pdb
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csprojAssemblyReference.cache
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Browse.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Login_Manager.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Browse.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Login.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Register_Member.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Pembayaran.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Ubah_Harga.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Penjualan.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Stock.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Pindah_Stock.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Lihat_Edit_Stock.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Beli_Stock.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Riwayat.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Splashscreen.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Properties.Resources.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csproj.GenerateResource.cache
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek POS.exe
+D:\Kuliah\Semester 2\Proyek PV&basdat\Revisi 12 mei\PROYEK POS 12 MEI 2019 V2\Proyek POS\Proyek POS\obj\Debug\Proyek POS.pdb
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe.config
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\bin\Debug\Proyek POS.pdb
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csprojAssemblyReference.cache
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Browse.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Login_Manager.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Browse.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Login.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Register_Member.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Pembayaran.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Ubah_Harga.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Penjualan.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Stock.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Pindah_Stock.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Lihat_Edit_Stock.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Beli_Stock.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Riwayat.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Splashscreen.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Properties.Resources.resources
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csproj.GenerateResource.cache
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek POS 12 MEI 2019_V1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek POS.exe
+D:\Kuliah\Semester 2\Proyek PV&basdat\Proyek revisi 16 mei\Proyek POS\Proyek POS\obj\Debug\Proyek POS.pdb

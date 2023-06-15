@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{194EC540-1A17-45B8-9E36-8F034A4D1813}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyek_POS</RootNamespace>
+    <AssemblyName>Proyek POS</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Kasir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasir.Designer.cs">
+      <DependentUpon>Kasir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kasir_Browse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasir_Browse.Designer.cs">
+      <DependentUpon>Kasir_Browse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kasir_Login_Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasir_Login_Manager.Designer.cs">
+      <DependentUpon>Kasir_Login_Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owner_Browse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner_Browse.Designer.cs">
+      <DependentUpon>Owner_Browse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kasir_Register_Member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasir_Register_Member.Designer.cs">
+      <DependentUpon>Kasir_Register_Member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kasir_Pembayaran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasir_Pembayaran.Designer.cs">
+      <DependentUpon>Kasir_Pembayaran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owner_Ubah_Harga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner_Ubah_Harga.Designer.cs">
+      <DependentUpon>Owner_Ubah_Harga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owner_Lihat_Penjualan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner_Lihat_Penjualan.Designer.cs">
+      <DependentUpon>Owner_Lihat_Penjualan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owner_Lihat_Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner_Lihat_Stock.Designer.cs">
+      <DependentUpon>Owner_Lihat_Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner.Designer.cs">
+      <DependentUpon>Owner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager.Designer.cs">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager_Pindah_Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager_Pindah_Stock.Designer.cs">
+      <DependentUpon>Manager_Pindah_Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager_Lihat_Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager_Lihat_Stock.Designer.cs">
+      <DependentUpon>Manager_Lihat_Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owner_Beli_Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner_Beli_Stock.Designer.cs">
+      <DependentUpon>Owner_Beli_Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Riwayat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Riwayat.Designer.cs">
+      <DependentUpon>Riwayat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Splashscreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splashscreen.Designer.cs">
+      <DependentUpon>Splashscreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Kasir.resx">
+      <DependentUpon>Kasir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kasir_Browse.resx">
+      <DependentUpon>Kasir_Browse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kasir_Login_Manager.resx">
+      <DependentUpon>Kasir_Login_Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owner_Browse.resx">
+      <DependentUpon>Owner_Browse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kasir_Register_Member.resx">
+      <DependentUpon>Kasir_Register_Member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kasir_Pembayaran.resx">
+      <DependentUpon>Kasir_Pembayaran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owner_Ubah_Harga.resx">
+      <DependentUpon>Owner_Ubah_Harga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owner_Lihat_Penjualan.resx">
+      <DependentUpon>Owner_Lihat_Penjualan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owner_Lihat_Stock.resx">
+      <DependentUpon>Owner_Lihat_Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owner.resx">
+      <DependentUpon>Owner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager.resx">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager_Pindah_Stock.resx">
+      <DependentUpon>Manager_Pindah_Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager_Lihat_Stock.resx">
+      <DependentUpon>Manager_Lihat_Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owner_Beli_Stock.resx">
+      <DependentUpon>Owner_Beli_Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Riwayat.resx">
+      <DependentUpon>Riwayat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splashscreen.resx">
+      <DependentUpon>Splashscreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goblin-02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eyehide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uang.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uang1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goblin-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eyehidehover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eyehover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logouthover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\input.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pindah.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\incomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lihat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ubahharga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beli.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

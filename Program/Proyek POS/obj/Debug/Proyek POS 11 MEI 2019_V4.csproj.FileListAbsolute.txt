@@ -1,0 +1,26 @@
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe.config
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\bin\Debug\Proyek POS.exe
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\bin\Debug\Proyek POS.pdb
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek POS 11 MEI 2019_V4.csprojAssemblyReference.cache
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Browse.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Login_Manager.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Browse.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Login.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Register_Member.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Kasir_Pembayaran.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Ubah_Harga.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Penjualan.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Lihat_Stock.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Pindah_Stock.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Manager_Lihat_Edit_Stock.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Owner_Beli_Stock.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Riwayat.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Splashscreen.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek_POS.Properties.Resources.resources
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek POS 11 MEI 2019_V4.csproj.GenerateResource.cache
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek POS 11 MEI 2019_V4.csproj.CoreCompileInputs.cache
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek POS.exe
+D:\Sem 2_Kuliah\Proyek_PV\PROYEK POS 11 MEI 2019_V4\Proyek POS\Proyek POS\obj\Debug\Proyek POS.pdb
